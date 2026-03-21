@@ -1,6 +1,7 @@
-# Olá, Mundo!
-Primeiro repositório do Curso git e Github.
+# Meu primeiro site!
 
-Repositório criado durante uma aula ao vivo!
+     3 arquivos criados
+     index.html
+     styles.css
+     
 
-Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
